@@ -1,0 +1,6 @@
+name = input("What is your name? ")
+pain = input("What body part is in pain? ")
+time = input("How long have you been experiencing this pain? ")
+print("Patient's name: " + name)
+print("Body part in pain: " + pain)
+print("Duration of pain: " + time)
