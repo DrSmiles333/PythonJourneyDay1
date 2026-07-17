@@ -11,11 +11,14 @@ elif pain_level >= 7:
     print("Severe pain, flagging for clinician review before we proceed.")
 night = input("Is the pain worse at night? (yes/no) ")
 numbness = input("Is there numbness or tingling? (yes/no) ")
-if numbness == "yes" and night == "yes" and pain_level >= 7:
+onset = "no" 
+if numbness == "yes":
+    onset = input("Is this numbness new? (yes/no)")
+if onset == "yes" and night == "yes" and pain_level >= 7:
     print("Immediate escalation recommended")
-elif pain_level >= 7 and (numbness == "yes" or night == "yes"):
+elif pain_level >= 7 and (onset == "yes" or night == "yes"):
     print("Recommend escalation")
-elif numbness == "yes" and night == "yes":
+elif onset == "yes" and night == "yes":
     print("Recommend escalation")
 else:
     print("No red flags — proceed with plan.")
