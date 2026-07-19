@@ -1,4 +1,7 @@
 # Learning Log
+## Day 5
+- Finished Part 3 section 1, loops with conditions. Reinforced the while-with-condition shape I'd already used in triage. Busy day, short session.
+
 ## Day 4
 - Finished Part 2; while loops were my hardest moment; rebuilt the concept, built the reps accumulator with dual counters, fixed the double-print, added plural handling; loops are now a tool I hold. Next frontier: try/except.
 
