@@ -1,4 +1,7 @@
 # Learning Log
+## Day 6
+- Finished Part 3 section 2, working with strings and included string operations, the length and index of a string, substrings and slices, and searching for substrings. Another busy day, but made time to finish a section.
+
 ## Day 5
 - Finished Part 3 section 1, loops with conditions. Reinforced the while-with-condition shape I'd already used in triage. Busy day, short session.
 
