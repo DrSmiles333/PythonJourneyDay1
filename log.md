@@ -1,4 +1,7 @@
 # Learning Log
+## Day 7
+- Finished Part 3 section 3, the design-a-solution wall. Worked through first-letters, factorial, flipped pairs, alternating ends. Learned: no factorial operator in Python, build it with an accumulator; empty string vs space string; two-counters-from-both-ends pattern.
+
 ## Day 6
 - Finished Part 3 section 2, working with strings and included string operations, the length and index of a string, substrings and slices, and searching for substrings. Another busy day, but made time to finish a section.
 
