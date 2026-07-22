@@ -1,4 +1,7 @@
 # Learning Log
+## Day 8
+- Finished Part 3 section 4, defining functions. I was very confused by the instructions as they wanted me to define functions and the example practice questions were not made to print anything. I struggled with no knowing if what I was writing was correct or why it was wrong. 
+
 ## Day 7
 - Finished Part 3 section 3, the design-a-solution wall. Worked through first-letters, factorial, flipped pairs, alternating ends. Learned: no factorial operator in Python, build it with an accumulator; empty string vs space string; two-counters-from-both-ends pattern.
 
