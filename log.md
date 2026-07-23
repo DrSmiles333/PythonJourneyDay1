@@ -1,4 +1,7 @@
 # Learning Log
+## Day 9
+- Finished Part 4 sections 1 and 2 learning to use VS Code, built in debugging tool, and function calls within functions. Learning that my struggles are with nomenclature more than anything else. Currently building a goniometric program to give max, min, count, and average without building lists. 
+
 ## Day 8
 - Finished Part 3 section 4, defining functions. I was very confused by the instructions as they wanted me to define functions and the example practice questions were not made to print anything. I struggled with no knowing if what I was writing was correct or why it was wrong. 
 
