@@ -1,4 +1,7 @@
 # Learning Log
+## Day 10
+- Built goniometer.py from scratch today which is the first time I built something without a basic framework to build off of. Specified, defined, and debugged myself.
+
 ## Day 9
 - Finished Part 4 sections 1 and 2 learning to use VS Code, built in debugging tool, and function calls within functions. Learning that my struggles are with nomenclature more than anything else. Currently building a goniometric program to give max, min, count, and average without building lists. 
 
